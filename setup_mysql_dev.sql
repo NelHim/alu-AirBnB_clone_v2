@@ -1,3 +1,4 @@
+-- Create dev database and user
 -- create database hbnb_dev_db if not exists
 -- create user hbnb_dev with pwd hbnb_dev_pwd
 -- grant hbnb_dev select on performance_schema
